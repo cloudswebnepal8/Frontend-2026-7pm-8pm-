@@ -28,7 +28,7 @@ function About() {
 
 
 
-          className='text-gray-500 p-4 text-justify'>I love learning new technoloiges,solving problems and creating modern websites that provide great user experiences.</motion.p>
+          className='text-gray-500 p-4 text-justify'>I build intelligent, secure, and scalable web and mobile applications by combining modern software engineering, AI integration and efficient system design. I specialize in transforming complex ideas into user-friendly, high-performance digital solutions using modern web and app technologies. My focus is on developing innovative, reliable, and future-ready applications that deliver seamless user experiences and strong security.</motion.p>
       </div>
 
       <div className='max-w-3xl md:mx-auto border-2 border-gray-300 rounded-xl p-5 m-10 '>
